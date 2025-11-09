@@ -23,9 +23,6 @@
 ---
 
 ### 🚀 Tecnologias e Ferramentas
-
-Organizei suas skills por categoria para ficar mais fácil de visualizar:
-
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
