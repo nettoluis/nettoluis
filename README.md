@@ -22,8 +22,6 @@
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
-
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
@@ -56,7 +54,12 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      </td>
+      <strong>Editores & Ferramentas</strong>
+      <br><br>
+      <p>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim"/>
+      </p>
+    </td>
   </tr>
 </table>
 
