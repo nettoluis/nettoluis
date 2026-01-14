@@ -73,7 +73,7 @@
       <td>
         <img
           align="left"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=nettoluis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=nettoluis&theme=dark&hide_border=false&layout=compact"
           alt="GitHub Stats - Top Langs"
         />
       </td>
@@ -81,7 +81,7 @@
         <br />
         <img
           align="left"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=nettoluis&theme=dark&hide_border=false"
+          src="https://streak-stats.demolab.com/?user=nettoluis&theme=dark&hide_border=false"
           alt="GitHub Stats - Streak"
         />
       </td>
