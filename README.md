@@ -72,17 +72,9 @@
     <tr>
       <td>
         <img
-          align="left"
+          align="center"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=nettoluis&theme=dark&hide_border=false&layout=compact"
           alt="GitHub Stats - Top Langs"
-        />
-      </td>
-      <td>
-        <br />
-        <img
-          align="left"
-          src="https://streak-stats.demolab.com/?user=nettoluis&theme=dark&hide_border=false"
-          alt="GitHub Stats - Streak"
         />
       </td>
     </tr>
