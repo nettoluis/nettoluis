@@ -73,7 +73,7 @@
       <td>
         <img
           align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=nettoluis&theme=dark&hide_border=false&layout=compact"
+          src="https://github-stats-extended.vercel.app/api/top-langs?username=nettoluis&layout=donut&langs_count=5&theme=tokyonight"
           alt="GitHub Stats - Top Langs"
         />
       </td>
