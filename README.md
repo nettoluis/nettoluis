@@ -28,7 +28,6 @@
       <strong>Linguagens de Programação</strong>
       <br><br>
       <p>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C"/>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/>
@@ -41,8 +40,7 @@
       <p>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"/>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/>
       </p>
     </td>
   </tr>
@@ -75,7 +73,7 @@
       <td>
         <img
           align="center"
-          src="https://github-stats-extended.vercel.app/api/top-langs?username=nettoluis&layout=donut&langs_count=5&theme=tokyonight"
+          src="https://github-stats-extended.vercel.app/api/top-langs?username=nettoluis&hide=javascript,html,css,alloy&langs_count=5&theme=tokyonight"
           alt="GitHub Stats - Top Langs"
         />
       </td>
